@@ -9,6 +9,7 @@ public class TestA {
     public void test_1(){
         System.out.println("master");
         System.out.println("branch_one");
+        System.out.println("cherry-pick");
         System.out.println("branch_two");
     }
 }
